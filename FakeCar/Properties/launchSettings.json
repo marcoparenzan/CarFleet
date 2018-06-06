@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FakeCar": {
+      "commandName": "Project",
+      "commandLineArgs": "marparcarfleet.azure-devices.net car1 +v5ei+29oglbk9EEBiCQH9f5csvOarB7AwIr0VSB+eE="
+    }
+  }
+}
